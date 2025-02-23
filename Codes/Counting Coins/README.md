@@ -24,7 +24,7 @@ This script detects and counts coins in an image.
 
 #### Run the script:
 ```sh
-python coin_detection.py
+python part_1_a.py
 ```
 
 ### 2. Edge Detection Script
@@ -40,7 +40,7 @@ This script processes an image to detect edges.
 
 #### Run the script:
 ```sh
-python edge_detection.py
+python part_1_b_c.py
 ```
 
 ## Notes
